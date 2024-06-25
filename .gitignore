@@ -1,0 +1,30 @@
+# Scrapy Webscraper Project
+
+# Ignore Python virtual environments
+/venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Scrapy items
+/.scrapy
+/items.csv
+
+# Ignore logs
+/logs/
+*.log
+
+# Ignore deployment configuration
+/scrapy.cfg
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
