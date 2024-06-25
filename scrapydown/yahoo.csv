@@ -1,0 +1,6 @@
+title
+Yahoo Home
+type,name,value,placeholder
+input,p,,Search the web
+input,location-picker,,Enter City or Zipcode
+select,config.selectedSign,,
